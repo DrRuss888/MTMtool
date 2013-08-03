@@ -1,7 +1,0 @@
-This application is an ongoing project. It is meant to be used as a guide to pharmacists and other providers who wish to engage with patients in a clinical setting. 
-
-Ultimately, this application should have (at minimum) a start window with initial choices such as patient demographics (age, gender, name, etc.) that will call up a form with corresponding follow up questions that the provider can ask the patient, and links to documents that will guide the provider in clinical desicion making. Once the form is completed, there should be a button that will execute a report, or 'action plan', that can be viewed by the provider. This action plan should provide an organized medication record, point out any potential drug related problems, and advise the provider on what steps to take in order to correct the potential problems. A separate report should simulatneously be generated containing only the medication record, which will be given to the patient.
-
-Secondly, this application should also have an area for documentation of follow up notes and communication notes that the provider will need for billing purposes.
-
-Third, this application will need a billing tool to electronically submit the required notes to the healthcare payor.
